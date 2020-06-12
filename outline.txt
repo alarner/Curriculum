@@ -1,3 +1,38 @@
+# Developer tools / programming concepts
+    - [tool] Command Line
+    - [tool] Git / GitHub
+    - [programming] Variables, types and boolean logic
+    - [programming] conditionals
+    - * REVIEW *
+    - [programming] arrays
+    - [programming] loops
+    - [tool] eslint / prettier
+    - [programming] functions
+    - * REVIEW *
+    - [programming] callback functions
+    - [programming] objects
+    - [programming] 
+5m  break
+45m front-end development
+    - Basic HTML / CSS
+    - CSS Box Model and Layout
+    - CSS Selectors and Flexbox 101
+    - JavaScript in the browser
+    - * REVIEW *
+    - Flexbox 102
+    - DOM Manipulation
+    - Mobile web development (Media queries)
+    - CSS Review
+    - * REVIEW *
+    - JS Events
+    - React presentation components
+    - React props
+    - useState
+
+
+
+
+
 ::::::: Week 1 - Introductions :::::::
 
 Day 1

@@ -12,7 +12,15 @@ Here are a few basic tools we will be using. Download and/or register for each o
 * Slack (you should have received an invite)
 * [GitHub](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
-## For Windows User Only
+## For Mac Users Only
+
+Normally you **NEVER** want to run random commands that you get from the internet in your terminal without understanding what they are and exactly what they do. The terminal could give anyone full access to your entire computer. In this case these commands are coming from a trusted source (me) so it's okay.
+
+Run this command in your terminal to install [Homebrew](https://brew.sh/).
+
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+
+## For Windows Users Only
 
 > Follow these steps to enable "Windows Subsytem Linux" so you can use the same command line environment as mac users.
 
@@ -26,7 +34,7 @@ Here are a few basic tools we will be using. Download and/or register for each o
     ![Windows Subsystem for Linux option screen shot](./images/enable-windows-subsystem-linux-windows-10.webp)
 6. Click the OK button.
 7. Click the Restart now button.
-8. After your computer restarts, install [Ubuntu from the Microsoft Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?irgwc=1&OCID=AID2000142_aff_7593_159229&tduid=%28ir__61iffalgm0kftxpwxkqdydtlre2xneyigakslxxg00%29%287593%29%28159229%29%28%29%28UUwpUdUnU72700YYwYg%29&irclickid=_61iffalgm0kftxpwxkqdydtlre2xneyigakslxxg00&activetab=pivot:overviewtab).
+8. After your computer restarts, install [Ubuntu from the Microsoft Store](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?irgwc=1&OCID=AID2000142_aff_7593_159229&tduid=%28ir__61iffalgm0kftxpwxkqdydtlre2xneyigakslxxg00%29%287593%29%28159229%29%28%29%28UUwpUdUnU72700YYwYg%29&irclickid=_61iffalgm0kftxpwxkqdydtlre2xneyigakslxxg00&activetab=pivot:overviewtab). **Be sure to write down the username and password that you choose when going through this installation process.**
 9. Open Hyper Term that you downloaded above.
 10. Press `ctrl ,` and find the following lines:
     ```

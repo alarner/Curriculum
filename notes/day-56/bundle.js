@@ -1,1 +1,0 @@
-console.error("Error: Cannot find module '/Users/NicerHugs/Documents/code/tiy/austinCurriculum/notes/day-56/main.js' from '/Users/NicerHugs/Documents/code/tiy/austinCurriculum/notes/day-56'");
