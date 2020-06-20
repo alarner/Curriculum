@@ -2,7 +2,7 @@
 
 ## What is "programming?"
 
-I like this description from Kyle Simpson's [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md)
+I like this description from Kyle Simpson's [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch1.md#code)
 
 > A program, often referred to as source code or just code, is a set of special instructions to tell the computer what tasks to perform. Usually code is saved in a text file...
 

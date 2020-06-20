@@ -16,8 +16,8 @@ Date: `June 11, 2020`
 * [Video](https://www.youtube.com/watch?v=SB-qEYVdvXA)
 
 ## Assignments
-* Current Assignment [ported to TIY-Online](https://online.theironyard.com/library/paths/109/units/370/assignments/569)
-* [Assignment Part 2](https://online.theironyard.com/library/paths/109/units/370/assignments/570)
+* Current Assignment [ported to TIY-Online](/assignments/js-variables-and-types-worksheet)
+* [Assignment Part 2](/assignments/js-variables-and-types-worksheet)
 
 ## Resources
 * Links to [lessons](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/units)

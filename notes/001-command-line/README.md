@@ -7,7 +7,7 @@ Date: `June 11, 2020`
 ## Goals
 * [Paths](/units/paths/README.md)
 * [Command Line](/units/command-line/README.md)
-	- `open`, `pwd`, `ls`, `cd`, tab completion, `tree`, `code`
+	- `open`, `pwd`, `ls`, `cd`, `mkdir`, `cp`, `mv`, tab completion, `tree`, `code`
 * Bash Scripts
 	- `chmod`
 
