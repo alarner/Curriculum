@@ -12,8 +12,8 @@ Date: `June 11, 2020`
 	- `chmod`
 
 ## Notes
-* [Code](./code)
-* [Video](https://www.youtube.com/watch?v=SB-qEYVdvXA)
+* [Video](https://youtu.be/qtyICA4uyj0)
+* [Bonus Video](https://youtu.be/xJgHdH2fieA)
 
 ## Assignments
 * [Command Line Wizard](../../assignments/command-line-wizard)
