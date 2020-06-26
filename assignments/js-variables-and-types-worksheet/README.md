@@ -14,7 +14,7 @@ After completing this assignment, you should…
 * get experience with NaN, undefined and null
 
 ## Assignment
-Review the code below. For each snippet of code, determine what the final expression will evaluate to (*both type and vaue*). Try to answer each one of these without actually running the code via node or inside of the console. After you pick your answer, you can look up the answer by running the code. Keep a list of any expressions that you don't understand to review in class.
+Review the code below. For each snippet of code, determine what the final expression will evaluate to (*both type and value*). Try to answer each one of these without actually running the code via node or inside of the console. After you pick your answer, you can look up the answer by running the code. Keep a list of any expressions that you don't understand to review in class.
 
 ### Snippet #1
 
@@ -168,3 +168,7 @@ const y = (x=7);
 ```
 
 Evaluate this expression: `y`
+
+## Bonus
+
+Download this code from [this zip file](../../notes/002-javascript-introduction/code/bonus.zip) and extract it to somewhere that you can run your `node` command. `cd` into the bonus directory and run `node index.js`. See if you can get 11 or more correct in a row ;)
