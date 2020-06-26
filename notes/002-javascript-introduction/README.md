@@ -11,7 +11,7 @@ Date: `June 25, 2020`
 
 ## Notes
 * [Code](./code)
-* [Video](https://www.youtube.com/watch?v=SB-qEYVdvXA)
+* [Video](https://www.youtube.com/watch?v=6pRzMbWhsPw)
 
 ## Assignments
 * [JavaScript Variables and Types Worksheet](/assignments/js-variables-and-types-worksheet)
