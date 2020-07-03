@@ -15,7 +15,7 @@ Date: `July 2, 2020`
 
 ## Notes
 * [Code](./code)
-* [Video](https://www.youtube.com/watch?v=SB-qEYVdvXA)
+* [Video](https://www.youtube.com/watch?v=gU7FFJ8XRDA)
 
 ## Assignments
 > Pick one of the following assignments (you don't need to do all 3)
