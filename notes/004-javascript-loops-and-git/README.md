@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day ### - TOPIC
+# Day 004 - Javascript Loops and Git
 
 Date: `July 9, 2020`
 
