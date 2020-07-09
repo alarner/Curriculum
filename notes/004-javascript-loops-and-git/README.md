@@ -5,6 +5,8 @@
 Date: `July 9, 2020`
 
 ## Goals
+* Homework review
+* VS Code: `cmd` + `shift` + `L` to select all instances
 * `git` introduction
 * JavaScript arrays
 * JavaScript loops
