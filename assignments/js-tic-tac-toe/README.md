@@ -26,7 +26,7 @@ Create a game of tic-tac-toe on the command line. Use the prompt-sync module to 
   -------------
 ```
 
-Once someone has won, stop asking for new moves and tell the players who was the winner.
+Players should not be able to move to a coordinate where they or the other player have already moved. Once someone has won, stop asking for new moves and tell the players who was the winner.
 
 ## Bonus 1
 
