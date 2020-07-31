@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+div {
+  /* font-weight: bold; */
+}
+
+.title {
+  font-weight: bold;
+  background-color: red;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  border: 10px solid orange;
+}
+
+.customButton {
+  background-color: cadetblue;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+  color: #173c3d;
+  cursor: pointer;
+}
+
+.customButton:hover {
+  background-color: #518b8d;
+  color: #0c2c2d;
+}
+
+.googleButton {
+  display: block;
+}
