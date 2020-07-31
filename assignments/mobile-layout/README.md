@@ -15,9 +15,9 @@ After completing this assignment, you should…
 
 ## Assignment
 
-Using your knowledge of HTML and CSS, replicate the mobile layout displayed in [this image file](/page1.png) in a file called `index.html`.
+Using your knowledge of HTML and CSS, replicate the mobile layout displayed in [this image file](./page1.png) in a file called `index.html`.
 
-Next, replicate the mobile layout displayed in [this image file](/page2.png) in a file called `page2.html`.
+Next, replicate the mobile layout displayed in [this image file](./page2.png) in a file called `page2.html`.
 
 You'll notice that only the first layout has pixel dimensions labeled for you. You must determine the correct measurements for yourself for the second page. Command+Shift+4 is your friend.
 
