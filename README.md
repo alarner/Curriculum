@@ -7,3 +7,4 @@
 - [Day 005 - Review](./notes/005-review)
 - [Day 006 - JavaScript Functions](./notes/006-javascript-functions)
 - [Day 007 - HTML Introduction](./notes/007-html-introduction)
+- [Day 008 - CSS Layout](./notes/008-css-layout)
