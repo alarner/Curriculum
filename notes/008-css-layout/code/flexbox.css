@@ -1,0 +1,50 @@
+.a {
+  display: flex;
+  flex-direction: row;
+}
+
+.b {
+  padding: 2rem;
+  background-color: #999;
+  border: 1px solid black;
+  flex: 1;
+}
+
+.sidebar {
+  width: 10rem;
+  background-color: aquamarine;
+}
+
+.content {
+  flex: 1;
+  background-color: burlywood;
+}
+
+.center {
+  /* display: flex;
+  align-items: center; */
+}
+.el1 {
+  width: 2rem;
+  height: 4rem;
+  background-color: chartreuse;
+  margin: 0 auto;
+}
+.el2 {
+  width: 6rem;
+  height: 1rem;
+  background-color: black;
+  margin: 0 auto;
+}
+.el3 {
+  width: 5rem;
+  height: 4rem;
+  background-color: darkcyan;
+  margin: 0 auto;
+}
+.el4 {
+  width: 10rem;
+  height: 7rem;
+  background-color: darkred;
+  margin: 0 auto;
+}

@@ -13,7 +13,7 @@ Date: `August 6, 2020`
 ## Notes
 
 - [Code](./code)
-- [Video](https://www.youtube.com/watch?v=SB-qEYVdvXA)
+- [Video](https://www.youtube.com/watch?v=5p6KA3tYwGw)
 
 ## Assignments
 
@@ -22,3 +22,4 @@ Date: `August 6, 2020`
 ## Resources
 
 - [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Mastering margin collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
