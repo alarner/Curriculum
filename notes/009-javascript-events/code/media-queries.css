@@ -1,0 +1,23 @@
+body {
+  background-image: url("./crowd.jpg");
+  background-size: 100% 100%;
+}
+.container {
+  /* display: flex; */
+  /* flex-direction: column; */
+  padding: 1rem;
+}
+
+.item {
+  background-color: blue;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 50rem) {
+  .container {
+    display: flex;
+  }
+  .item {
+    margin: 1rem;
+  }
+}
