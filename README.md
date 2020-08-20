@@ -9,3 +9,4 @@
 - [Day 007 - HTML Introduction](./notes/007-html-introduction)
 - [Day 008 - CSS Layout](./notes/008-css-layout)
 - [Day 009 - JavaScript Events](./notes/009-javascript-events)
+- [Day 010 - JavaScript Fetch](./notes/010-javascript-fetch)
