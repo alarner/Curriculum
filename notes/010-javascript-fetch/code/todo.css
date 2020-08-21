@@ -1,0 +1,7 @@
+input[type="checkbox"] {
+  /* pointer-events: none; */
+}
+
+label {
+  display: block;
+}
