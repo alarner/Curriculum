@@ -14,6 +14,7 @@ Date: `August 20, 2020`
 
 - [Code](./code)
 - [Video](https://www.youtube.com/watch?v=0QBKjCc2NZ4)
+- [Extra Bonus Video on Fetch](https://www.youtube.com/watch?v=nXrwFz7vEao)
 
 ## Assignments
 
