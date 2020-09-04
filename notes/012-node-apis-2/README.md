@@ -12,7 +12,7 @@ Date: `September 2, 2020`
 ## Notes
 
 - [Code](./code)
-- [Video](https://www.youtube.com/watch?v=SB-qEYVdvXA)
+- [Video](https://www.youtube.com/watch?v=gZ4WZz-bDYk)
 
 ## Assignments
 
