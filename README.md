@@ -12,3 +12,4 @@
 - [Day 010 - JavaScript Fetch](./notes/010-javascript-fetch)
 - [Day 011 - Node APIs](./notes/011-node-apis)
 - [Day 012 - Node APIs 2](./notes/012-node-apis-2)
+- [Day 013 - Unit Testing](./notes/013-unit-testing)
