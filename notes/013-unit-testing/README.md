@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day ### - TOPIC
+# Day 013 - Unit Testing
 
 Date: `September 10, 2020`
 
@@ -8,11 +8,11 @@ Date: `September 10, 2020`
 
 - tryrcv questions / discussion
 - Unit Testing
-- asynchronous programming
 
 ## Notes
 
 - [Code](./code)
+- [Example Unit Test PR](https://github.com/alarner/tryrcv/pull/33/files)
 - [Video](https://www.youtube.com/watch?v=LOk2vVHqrFA)
 
 ## Assignments
