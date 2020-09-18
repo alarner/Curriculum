@@ -12,7 +12,8 @@ Date: `September 17, 2020`
 ## Notes
 
 - [Code](./code)
-- [Video](https://www.youtube.com/watch?v=SB-qEYVdvXA)
+- [Video](https://www.youtube.com/watch?v=wNpd0-RioCI)
+- [Example: Checking session token header](https://github.com/alarner/tryrcv/pull/43)
 
 ## Assignments
 
