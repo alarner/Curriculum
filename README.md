@@ -15,3 +15,4 @@
 - [Day 013 - Unit Testing](./notes/013-unit-testing)
 - [Day 014 - User Authentication](./notes/014-user-authentication)
 - [Day 015 - Asynchronous JavaScript](./notes/015-asynchronous-javascript)
+- [Day 016 - git merge conflicts](./notes/016-git-merge-conflicts)
