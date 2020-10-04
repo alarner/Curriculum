@@ -11,7 +11,7 @@ Date: `October 1, 2020`
 ## Notes
 
 - [Code](./code)
-- [Video](https://www.youtube.com/watch?v=cXYTtlfCsz4)
+- [Video](https://www.youtube.com/watch?v=YEbiCUs85q8)
 
 ## Resources
 
