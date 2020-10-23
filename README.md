@@ -17,3 +17,4 @@
 - [Day 015 - Asynchronous JavaScript](./notes/015-asynchronous-javascript)
 - [Day 016 - git merge conflicts](./notes/016-git-merge-conflicts)
 - [Day 017 - React Introduction](./notes/017-react-introduction)
+- [Day 018 - Local Storage Review](./notes/018-local-storage-review)
