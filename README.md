@@ -18,3 +18,4 @@
 - [Day 016 - git merge conflicts](./notes/016-git-merge-conflicts)
 - [Day 017 - React Introduction](./notes/017-react-introduction)
 - [Day 018 - Local Storage Review](./notes/018-local-storage-review)
+- [Day 019 - Amazon Web Services and "The Cloud"](./notes/019-aws-and-the-cloud)
