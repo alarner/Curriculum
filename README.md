@@ -19,3 +19,4 @@
 - [Day 017 - React Introduction](./notes/017-react-introduction)
 - [Day 018 - Local Storage Review](./notes/018-local-storage-review)
 - [Day 019 - Amazon Web Services and "The Cloud"](./notes/019-aws-and-the-cloud)
+- [Day 020 - Time Complexity and Big O Notation](./notes/020-time-complexity)
